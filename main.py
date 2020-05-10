@@ -226,11 +226,3 @@ def draw_grid():
 if __name__ =="__main__":
     main()
 
-
-"""
-    open portals
-    make bricks
-    add super points
-    add 50 different levels
-    hell why not make it skyrim
-    """
